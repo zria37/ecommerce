@@ -20,4 +20,4 @@ Client-Side mengelola datanya di sisi client atau browser.
 2. Tabel Pelanggan untuk menyimpan data pelangngan ketika mau transaksi maka harus ada data pelanggan
 3. Tabel transaksi untuk menyimpan data transaksi - transaksi yang sudah terjadi.
 4. Tabel keranjang untuk menyimpan data yang untuk disimpen sementara di keranjang.
-![database](assets/design-database.png)
+![database](assets/design-database.PNG)
